@@ -3,3 +3,8 @@ __pycache__/
 *.pyc
 data/*.npz
 .ipynb_checkpoints/
+
+# Claude Code
+CLAUDE.md
+CLAUDE.local.md
+.claude/
