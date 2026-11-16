@@ -8,3 +8,6 @@ data/*.npz
 CLAUDE.md
 CLAUDE.local.md
 .claude/
+
+# Collaborator data (large: ~1.5 GB including Abaqus .odb)
+Digambar Data/
